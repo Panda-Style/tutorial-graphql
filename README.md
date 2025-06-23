@@ -2,6 +2,10 @@
 
 A step by step instructional on how to build a GraphQL API
 
+## Requirements
+- NodeJS
+- Apollo library
+
 ### What is GraphQL
 - It is a ••query language•• (QL, like in SQL - Structured Query Language)
 - Syntax for using traditional HTTP method in a different way
