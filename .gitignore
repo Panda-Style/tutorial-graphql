@@ -1,7 +1,11 @@
+# This prevents unwanted files (like node_modules, environment variables)
+# from being committed to your repository.
+# For a typical project with Node.js, this is a good start:
 node_modules/
 .env
 dist/
 build/
 npm-debug.log
 *.log
-.DS_Store # For macOS users
+# DS Store for MacOS users
+.DS_Store
