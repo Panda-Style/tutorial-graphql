@@ -15,7 +15,7 @@ A step by step instructional on how to build a GraphQL API
 1. Assuming you're already inside your project directory, you will need to install the following dependencies:
 
 ```bash
-npm init y
+npm init --yes
 npm pkg set type="module"
 ```
 
