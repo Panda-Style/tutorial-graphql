@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Panda-Style/tutorial-graphql/issues"
   },
-  "homepage": "https://github.com/Panda-Style/tutorial-graphql#readme"
+  "homepage": "https://github.com/Panda-Style/tutorial-graphql#readme",
+  "dependencies": {
+    "@apollo/server": "^4.12.2",
+    "graphql": "^16.11.0"
+  }
 }
