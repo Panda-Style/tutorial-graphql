@@ -17,6 +17,7 @@ A step by step instructional on how to build a GraphQL API
 ```bash
 npm init --yes
 npm pkg set type="module"
+npm install @apollo/server graphql
 ```
 
 
